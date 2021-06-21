@@ -1,0 +1,1 @@
+BEGINIn a relational database, data is distributed in multiple logical tables. To get a complete	meaningful set of data, you need to query data from these tables by using joins.
